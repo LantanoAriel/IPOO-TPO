@@ -1,0 +1,3 @@
+El arma tendrá que tener durabilidad, por cada golpe EN UN DUELO bajará 1 punto la durabilidad de la misma.
+
+Dejar COMENTADO los settes que no son necesarios cambiar una vez definidos, sucede en DUELO->PERSONAJE, duelo->ARENA. (SETTERS)
